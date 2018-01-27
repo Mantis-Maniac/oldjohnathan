@@ -461,7 +461,7 @@ input.gn-search:focus {
 }
 
 #intro{
-	background-image: url(../img/img-bg.jpg);
+	background-image: url(../img/journal-communication.png);
 	background-size: cover;
 }
 
@@ -471,10 +471,10 @@ input.gn-search:focus {
 
 }
 .intro .slogan h1 {
-	color: #990099;
+	color: #99FF99;
 	line-height: 1.1em;
 	margin-bottom: 20px;
-	 font-size: 90px;
+	 font-size: 70px;
 }
 .intro .slogan p {
 	color: #990000;
