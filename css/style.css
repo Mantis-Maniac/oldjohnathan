@@ -471,15 +471,15 @@ input.gn-search:focus {
 
 }
 .intro .slogan h1 {
-	color: #fff;
+	color: #990099;
 	line-height: 1.1em;
 	margin-bottom: 20px;
-	 font-size: 40px;
+	 font-size: 90px;
 }
 .intro .slogan p {
-	color: #eee;
+	color: #990000;
 	margin-bottom: 50px;
-	font-size: 20px;
+	font-size: 50px;
 }
 
 
@@ -495,7 +495,7 @@ input.gn-search:focus {
 /* slider */
 
 .tp-caption.custom_large_white {
-	color: #FFF;
+	color: #FFCCCC;
 	text-shadow: none;
 	font-size: 60px;
 	line-height: 60px;
