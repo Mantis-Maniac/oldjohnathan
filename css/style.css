@@ -481,6 +481,11 @@ input.gn-search:focus {
 	margin-bottom: 50px;
 	font-size: 50px;
 }
+.intro .slogan h2 {
+	color: #bdd827;
+	margin-bottom: 40px;
+	font-size: 25px;
+}
 
 
 .brand-heading {
