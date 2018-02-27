@@ -309,7 +309,7 @@ img {
 }
 .img-responsive {
   display: unblock;
-  max-width: 50%;
+  max-width: 40%;
   height: auto;
 }
 .img-rounded {
