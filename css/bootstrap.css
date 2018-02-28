@@ -308,7 +308,7 @@ img {
   vertical-align: middle;
 }
 .img-responsive {
-  display: unblock;
+  display: block;
   max-width: 40%;
   height: auto;
 }
