@@ -309,7 +309,7 @@ img {
 }
 .img-responsive {
   display: unblock;
-  max-width: 40%;
+  max-width: 30%;
   height: auto;
 }
 .img-rounded {
@@ -455,7 +455,7 @@ h4,
 }
 h5,
 .h5 {
-  font-size: 14px;
+  font-size: 54px;
 }
 h6,
 .h6 {
