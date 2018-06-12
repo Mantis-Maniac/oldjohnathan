@@ -473,6 +473,7 @@ input.gn-search:focus {
 }
 .intro .slogan h1 {
 	color: #0066CC;
+  font-style: courier;
 	line-height: 1.1em;
 	margin-bottom: 20px;
 	 font-size: 70px;
